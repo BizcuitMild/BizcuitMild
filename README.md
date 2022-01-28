@@ -11,6 +11,23 @@
 - 💬 Ask me about ...
 --->
 
+### Discord Status
+<a href="https://discord.com/users/705465600348258375">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/705465600348258375.png" />
+</a>
+
+### Contact me : 
+
+[<img align="left" alt="phantomcodes.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://bizcuitmild.web.app)
+[<img align="left" alt="Phantom | YouTube" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png" />](https://www.youtube.com/channel/UCk2dTpJm2uSAmw2tr7zHJ-g?sub_confirmation=1)
+<a href="https://discord.gg/MzbvTmVQva">
+  <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
+[<img align="left" alt="Phantom | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />](https://www.instagram.com/saaaamild.d/)
+
+</br>
+
 <!---
 BizcuitMild/BizcuitMild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
