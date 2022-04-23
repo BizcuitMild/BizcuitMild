@@ -5,7 +5,16 @@
 - 🔭 I’m currently working on Freelance ...
 - 🌱 I’m currently learning HTML, CSS, Java Script ...
 - 💞️ I’m looking to collaborate on More To Open Source Projects
-- ⚡ Fun fact: Playing Games :)
+<details>
+  <summary>⚡ Fun fact: Playing Games :)</summary>
+
+  - **VALORANT**
+  - **SCUM**
+  - **Project Zomboid**
+  - **Grand Theft Auto V**
+  - **FiveM**
+</details>
+
 <!---
 - 📫 How to reach me ...
 - 💬 Ask me about ...
