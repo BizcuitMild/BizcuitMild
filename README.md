@@ -2,9 +2,15 @@
 
 ## I'm a Computer Engineering
 
-- 🔭 I’m currently working on Freelance ...
-- 🌱 I’m currently learning HTML, CSS, Java Script ...
-- 💞️ I’m looking to collaborate on More To Open Source Projects
+<details>
+  <summary>🔭 I’m currently working on Freelance</summary>
+</details>
+<details>
+  <summary>🌱 I’m currently learning HTML, CSS, Java Script</summary>
+</details>
+<details>
+  <summary>💞️ I’m looking to collaborate on More To Open Source Projects</summary>
+</details>
 <details>
   <summary>⚡ Fun fact: Playing Games :)</summary>
 
