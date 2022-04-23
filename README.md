@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">
+    Hey there 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+    I'm Yenon! 
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h1>
 
 ## I'm a Computer Engineering
 
