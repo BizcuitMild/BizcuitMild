@@ -59,6 +59,6 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-<div align="center">
+<div align="left">
     So, See you in my journey! Peace out! ✌️
 </div>
