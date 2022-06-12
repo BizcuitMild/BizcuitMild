@@ -20,6 +20,7 @@
   <summary>⚡ Fun fact: Playing Games :)</summary>
 
   - **VALORANT**
+  - **Hunt Showdown**
   - **SCUM**
   - **Project Zomboid**
   - **Grand Theft Auto V**
