@@ -47,7 +47,7 @@
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-[<img align="left" alt="Phantom | Instagram" width="22px" src="https://sites.google.com/site/patza33337878/_/rsrc/1581908760053/thima-khxngig/instagram-social-media-icon-design-template-vector-png_126996.jpg" />](https://www.instagram.com/saaaamild.d/)
+[<img align="left" alt="Phantom | Instagram" width="22px" src="https://cdn1.iconfinder.com/data/icons/2019-social-media/512/social_media-04-512.png" />](https://www.instagram.com/saaaamild.d/)
 
 </br>
 
